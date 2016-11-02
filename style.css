@@ -5,5 +5,8 @@ margin: 0;
 
 h1 {
   color: white;
- }
+}
   
+.jumbotron #landing {
+  background-image: url("mnt1.jpg");
+}
