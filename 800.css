@@ -1,0 +1,20 @@
+img {
+  margin: 180px auto 10px auto;
+}
+
+#sectxt {
+  max-width: 95%;
+}
+
+.secondary {
+  height: auto;
+}
+
+.secondary h5 {
+  text-align: left;
+}
+
+.thirdary h4{
+  text-align: left;
+  padding-top: 80px;
+}
