@@ -1,8 +1,3 @@
-@media only screen and (max-width: 670px) {
-  #sectxt {
-  max-width: 80%%;
-  }
-}
 
 /*LANDING*/
 #landing {
@@ -59,7 +54,7 @@ img {
 /*SECONDARY*/
 .secondary {
 	background-color: #212041;
-	height: auto;
+	height: 340px;
 }
 
 .secondary h5 {
@@ -68,47 +63,36 @@ img {
   text-align: justify;
   letter-spacing: 1px;
   padding-top: 60px;
-  padding-left: 32%;
 }
 
 .secondary p {
   color: white;
   font-family: 'Quicksand', sans-serif;
   text-align: justify;
-  padding-left: 32%;
   padding-bottom: 40px;
 }
 
 #sectxt {
-  max-width: 68%;
+  max-width: 33%;
+  margin: auto;
 }
-
 
 /*THIRDARY*/
 .thirdary {
   background-color: #20222E;
-  height: auto;
+  height: 340px;
 }
 
 .thirdary h4{
   color: white;
   font-family: 'Merriweather', serif;
-  text-align: center;
-  padding-top: 60px;
+  text-align: justify;
+  padding-top: 120px;
 }
 
 
 .thirdary p {
 	color: white;
 	font-family: 'Quicksand', sans-serif;
-	text-align: center;
-}
-
-
-
-.thirdary a {
-	color: white;
-	background-color: #17172E;
-	padding: 10px 20px;
-	margin-top: 40px;
+	text-align: justify;
 }
