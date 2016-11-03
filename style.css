@@ -50,6 +50,8 @@ img {
 /*SECONDARY*/
 .secondary {
 	background-color: #212041;
+	width: 100%;
+	height: 100%;
 }
 
 .secondary h2 {
