@@ -1,12 +1,41 @@
+
 /*GENERAL*/
 .jumbotron {
-margin: 0;
+border-radius: 0px;
+background-image: url("img/mnt2.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+height: 700px;
 }
 
 .jumbotron h1 {
-  color: white;
+color: white;
+font-family: 'Merriweather', serif;
+text-align: center;
 }
-  
-.jumbotron {
-  background-image: url("mnt1.jpg");
+
+.jumbotron p {
+	color: white;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.jumbotron a {
+	color: white;
+	background-color: #17172E;
+	padding: 10px 20px;
+}
+
+.jumbotron a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+img {
+	display: inline-block;
+	margin:left auto;
+	margin-right: auto;
+	max-width: 50px;
+	max-height: 50px;
+	margin-top: 280px;
 }
