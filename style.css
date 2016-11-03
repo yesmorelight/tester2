@@ -18,13 +18,13 @@
 	color: white;
 	text-align: center;
 	font-family: 'Quicksand', sans-serif;
-	margin-bottom: 5px;
 }
 
 .jumbotron a {
 	color: white;
 	background-color: #17172E;
 	padding: 10px 20px;
+	margin-top: 10px;
 }
 
 .jumbotron a:hover {
