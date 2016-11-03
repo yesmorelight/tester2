@@ -1,5 +1,5 @@
 
-/*GENERAL*/
+/*LANDING*/
 .jumbotron {
 	border-radius: 0px;
 	background-image: url("mnt2.jpg");
@@ -41,3 +41,10 @@ img {
 	max-height: 50px;
 	margin-top: 280px;
 }
+
+
+/*SECONDARY*/
+#secondary {
+	background-color: #6465C1;
+}
+	
