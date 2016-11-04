@@ -54,6 +54,8 @@ img {
 /*SECONDARY*/
 .secondary {
 	background-image: url("mntbg1.png");
+	background-size: cover;
+	background-repeat: no-repeat;
 	height: 340px;
 }
 
