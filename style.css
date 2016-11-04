@@ -7,7 +7,7 @@
 .jumbotron {
 	border-radius: 0px;
 	margin-bottom: 0px;
-	background-image: url("mnt2.jpg");
+	background-image: url("https://yesmorelight.github.io/tester2/mnt2.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 700px;
@@ -53,11 +53,8 @@ img {
 
 /*SECONDARY*/
 .secondary {
-	background-image: url("mntbg1.png");
-	background-size: cover;
-	background-repeat: no-repeat;
-	padding-top: -200px;
-	height: 340px;
+	background-color: #212041;
+	height: auto;
 }
 
 .secondary h5 {
@@ -65,14 +62,14 @@ img {
   font-family: 'Merriweather', serif;
   text-align: justify;
   letter-spacing: 1px;
-  padding-top: 60px;
+  padding-top: 30px;
 }
 
 .secondary p {
   color: white;
   font-family: 'Quicksand', sans-serif;
   text-align: justify;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
 }
 
 #sectxt {
@@ -82,15 +79,15 @@ img {
 
 /*THIRDARY*/
 .thirdary {
-  background-image: url("mntbg2.png");
-  height: 340px;
+  background-color: #20222E;
+  height: auto;
 }
 
 .thirdary h4{
   color: white;
   font-family: 'Merriweather', serif;
   text-align: justify;
-  padding-top: 120px;
+  padding-top: 30px;
 }
 
 
@@ -98,4 +95,5 @@ img {
 	color: white;
 	font-family: 'Quicksand', sans-serif;
 	text-align: justify;
+	padding-bottom: 30px;
 }
