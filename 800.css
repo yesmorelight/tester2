@@ -14,7 +14,16 @@ img {
   text-align: left;
 }
 
+.secondary p {
+  text-align: justify;
+}
+
 .thirdary h4{
   text-align: left;
   padding-top: 80px;
+  height: auto;
+}
+
+.thirdary p {
+  text-align: justify;
 }
